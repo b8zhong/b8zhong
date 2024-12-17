@@ -1,10 +1,16 @@
-# Hiya 👋! I'm `Brayden`
+# Hey - I'm `Brayden`
 
-## 📖 About Me  
-Studying ⚡ `Electrical and Computer Engineering` at the University of Waterloo!
+### Me
+I study `Electrical and Computer Engineering` at UWaterloo
 
-## 🌱 Currently...  
-Always trying to learn new things!
+### I'm currently working on
 
-## 👨‍💻 Work
-Check this out soon...
+TBD
+
+<br>
+
+### Recently ...
+
+Working on stuff :)
+
+<br>
