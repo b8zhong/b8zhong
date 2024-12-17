@@ -1,11 +1,7 @@
-### I'm currently working on 
+# Hiya 👋! I'm `Brayden`
 
-TBD
+## 📖 About Me  
+Studying ⚡ `Electrical and Computer Engineering` at the University of Waterloo!
 
-<br>
-
-### Recently ...
-
-Working on stuff :)
-
-<br>
+## 🌱 Currently...  
+Always trying to learn new things!
