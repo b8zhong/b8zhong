@@ -11,6 +11,7 @@ TBD
 
 ### Recently ...
 
-Working on stuff :)
+**QA Intern @ Solink** for W25
+- `PyTest` & testing automation
 
 <br>
