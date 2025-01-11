@@ -5,7 +5,7 @@ I study Electrical and Computer Engineering at UWaterloo.
 
 ### I'm currently working on
 
-TBD
+there's always stuff to be done.
 
 <br>
 
