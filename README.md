@@ -11,4 +11,7 @@ there's always stuff to be done.
 
 ### Recently ...
 
+**QA Dev @ Solink** for W25
+- `PyTest` & testing automation
+
 <br>
