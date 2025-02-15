@@ -1,17 +1,14 @@
-# Hey - I'm `Brayden`
+# Hey - I'm Brayden
 
 ### Me
-I study Electrical and Computer Engineering at UWaterloo.
+I study Electrical and Computer Engineering at UWaterloo!
 
-### I'm currently working on
+Currently working on: URA @ **[Castorini](https://github.com/castorini)**, and some other things.
 
-there's always stuff to be done.
+### Recently...
 
-<br>
+**SWE Intern @ [Solink](https://github.com/SolinkCorp)**
 
-### Recently ...
+### Contact
 
-**QA Dev @ Solink** for W25
-- `PyTest` & testing automation
-
-<br>
+**Email: [brayden.zhong@uwaterloo.ca](mailto:brayden.zhong@uwaterloo.ca)**
